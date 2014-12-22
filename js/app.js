@@ -1,0 +1,1 @@
+storyApp = angular.module('storyApp', ['ngRoute']);
